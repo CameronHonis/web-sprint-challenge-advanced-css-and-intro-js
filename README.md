@@ -22,11 +22,14 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe preprocessing to someone new to CSS?
-2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+1. How would you describe acessibility on the web to someone new to programming?
+Accessibility is the measurement of how comprehendable/functional a website is to a whole population (usually including those with disabilities). This is accomplished by the sufficient use of semantic tags, easy to follow designs/color schemes (with colorblindness in mind), and intuitive UI placement.
+2. Talk about 3 different things you can do to ensure your website is accessible. 
+See answer 1
 3. How would you explain the concept of a variable to someone new to programming?
+A variable is similar to variables in math, except it acts as a store for all types of data, not just numbers. These data types include strings, booleans, numbers, arrays, objects, etc.
 4. What is the purpose of using functions in code?
-5. What is JSON data?
+Functions group procedural code in the function block to run at the call of the function. It reserves the action until is required. Also it can eliminate the repititiveness of having to rewrite common procedures.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
